@@ -9,7 +9,7 @@ function App() {
           <div className="hero-content">
             <div className="token-logo">
               <div className="logo-circle">
-                <span className="token-symbol">⚡</span>
+                <img src="/logo.png" alt="Flash USDT Logo" className="logo-image" />
               </div>
             </div>
             <h1 className="hero-title">
